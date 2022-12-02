@@ -1,0 +1,25 @@
+.margin{
+    display: flex;
+    flex-direction: row;
+justify-content: space-between;
+}
+.box{
+    padding-top: 40px;
+
+}
+
+.table{
+    margin-top: 40px;
+    width: 90%;
+margin-left: auto;
+margin-right: auto;
+}
+.box2{
+    padding-top: 50px;
+}
+.flex{
+    width: 100%;
+}
+.bt{
+    margin-left: 70px;
+}
